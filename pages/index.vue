@@ -21,7 +21,7 @@ export default {
 
 <style>
 .index-page {
-  height: 100%;
+  height: 100vh;
   width: 100%;
   position: relative;
 }

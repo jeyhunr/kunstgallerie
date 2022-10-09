@@ -55,7 +55,7 @@ export default {
 };
 </script>
 
-<style scoped>
+<style>
 .kunstgallerie-page {
   width: 100%;
 }
